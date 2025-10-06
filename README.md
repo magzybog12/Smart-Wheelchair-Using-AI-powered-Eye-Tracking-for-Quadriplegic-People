@@ -1,5 +1,4 @@
 # Smart-Wheelchair-Using-AI-powered-Eye-Tracking-for-Quadriplegic-People
-Regain Independence, Blink by Blink. This project delivers a revolutionary AI-powered smart wheelchair that grants complete mobility back to individuals with quadriplegia. We replace joysticks with a hands-free, real-time eye-tracking interface, achieving a 95.4% command accuracy for movement control.
 
 AI-powered smart wheelchair system to restore independent mobility for individuals with quadriplegia. It replaces traditional manual controls with a highly intuitive, hands-free interface powered entirely by the user's real-time eye movements.
 
